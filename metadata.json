@@ -1,0 +1,6 @@
+{
+  "name": "QueueLess",
+  "description": "Smart queue management platform allowing users to discover nearby businesses, see real-time waiting times, and join virtual queues remotely.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
